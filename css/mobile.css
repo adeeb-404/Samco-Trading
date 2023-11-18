@@ -1,0 +1,40 @@
+.first{
+    font-size: 1.2rem; 
+    text-shadow: #080808 1px 1px; 
+    letter-spacing: 0.1rem; 
+    word-spacing: 0.2rem;
+}
+
+.second{
+    font-size: 4rem; 
+    text-shadow: black 6px 6px; 
+    letter-spacing: 0.35rem; 
+    word-spacing: 0.6rem;
+    padding-left: 1rem;
+}
+
+.third{
+    font-size: 1.5rem; 
+    color: wheat; 
+    text-shadow: #080808 2px 2px; 
+    letter-spacing: 0.1rem; 
+    word-spacing: 0.2rem;
+}
+
+.tile{
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    margin: 15px;
+}
+
+.desk{
+    display: none;
+}
+.mob{
+    display: flex;
+}
+
+.ContactUs h3{
+    font-size: 1rem;
+}
